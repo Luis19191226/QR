@@ -1,0 +1,2 @@
+# QR
+Código QR
